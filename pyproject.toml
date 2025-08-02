@@ -1,0 +1,13 @@
+[project]
+name = "picsorter"
+version = "0.1.0"
+description = "Rename image files based on their metadata timestamps for chronological sorting"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "click>=8.1.8",
+    "pillow>=11.3.0",
+]
+
+[project.scripts]
+picsorter = "main:main"

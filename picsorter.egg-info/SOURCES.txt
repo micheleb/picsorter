@@ -1,0 +1,9 @@
+README.md
+main.py
+pyproject.toml
+picsorter.egg-info/PKG-INFO
+picsorter.egg-info/SOURCES.txt
+picsorter.egg-info/dependency_links.txt
+picsorter.egg-info/entry_points.txt
+picsorter.egg-info/requires.txt
+picsorter.egg-info/top_level.txt
